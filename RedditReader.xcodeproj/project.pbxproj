@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		A7BCFF3C266482B100470928 /* RedditReaderApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7BCFF3B266482B100470928 /* RedditReaderApp.swift */; };
-		A7BCFF3E266482B100470928 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7BCFF3D266482B100470928 /* ContentView.swift */; };
 		A7BCFF40266482B400470928 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7BCFF3F266482B400470928 /* Assets.xcassets */; };
 		A7BCFF43266482B400470928 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7BCFF42266482B400470928 /* Preview Assets.xcassets */; };
 		A7BCFF4E266482B400470928 /* ImageViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7BCFF4D266482B400470928 /* ImageViewModelTests.swift */; };
@@ -64,7 +63,6 @@
 /* Begin PBXFileReference section */
 		A7BCFF38266482B100470928 /* RedditReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RedditReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7BCFF3B266482B100470928 /* RedditReaderApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedditReaderApp.swift; sourceTree = "<group>"; };
-		A7BCFF3D266482B100470928 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A7BCFF3F266482B400470928 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A7BCFF42266482B400470928 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A7BCFF44266482B400470928 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -278,7 +276,6 @@
 			isa = PBXGroup;
 			children = (
 				A7BCFF3F266482B400470928 /* Assets.xcassets */,
-				A7BCFF3D266482B100470928 /* ContentView.swift */,
 				A7BCFF44266482B400470928 /* Info.plist */,
 				A7BCFF3B266482B100470928 /* RedditReaderApp.swift */,
 			);
@@ -440,7 +437,6 @@
 				A7BCFF732664844900470928 /* URLParameterEncoder.swift in Sources */,
 				A7BCFF9526648ADC00470928 /* ImageView.swift in Sources */,
 				A7BCFF71266483DE00470928 /* Endpoint.swift in Sources */,
-				A7BCFF3E266482B100470928 /* ContentView.swift in Sources */,
 				A7BCFF9E26648CBA00470928 /* Constants.swift in Sources */,
 				A7BCFF682664833D00470928 /* Listing.swift in Sources */,
 				A7BCFF9026648A8300470928 /* ImageSaver.swift in Sources */,
