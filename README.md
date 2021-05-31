@@ -40,7 +40,7 @@ alfonsomestre, [alfonso.mestre4@gmail.com](mailto:alfonso.mestre4@gmail.com)
 
 MIT License
 
-Copyright (c) [2019] [Alfonso Mestre]
+Copyright (c) [2021] [Alfonso Mestre]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
